@@ -1,0 +1,28 @@
+h1{
+	color: green;
+
+}
+h4{
+	font-style: normal;
+}
+form{
+	max-width: 900px;
+	background: #ccc;
+	margin: auto;
+	padding: 20px;
+}
+.row{
+	display: flex;
+
+}
+input[type="text"],input[type=name]{
+	width: 50%;
+	padding: 10px;
+	border-radius: 8px;
+}
+.form item{
+	margin-right: 7px;
+	padding: 10px;
+	width: 200px;
+	float: left;
+}
